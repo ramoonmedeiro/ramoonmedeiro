@@ -1,15 +1,15 @@
 <h1 align="center">Olá 👋, Eu sou o Ramon Medeiro</h1>
 <h3 align="center">Apaixonado em Análise e Ciência de Dados</h3>
 
-- 🔭 Atualmente trabalho com Química Computacional/Quântica **Efeito do Solvente em Deslocamento Químico de Nitrogênio-14 e Complexos de Cobalto**
+- 🔭 Atualmente trabalho com Química Computacional/Quântica. Título: **Efeito do Solvente em Deslocamento Químico de Nitrogênio-14 e Complexos de Cobalto**
 
-- 🌱 Atualmente estou aprendendo sobre Redes Neurais **TensorFlow e Keras**
+- 🌱 Atualmente estou aprendendo sobre Redes Neurais com **TensorFlow e Keras**
 
-- 👯 Também estudo Machine Learning nas horas vagas **Machine Learning (Udemy)**
+- 👯 Também estudo Machine Learning nas horas vagas
 
-- 💬 Pergunte-me sobre **Python, SQL, Scikit-Learn, Pandas, Linux e etc.**
+- 💬 Pergunte-me sobre: **Python, SQL, Scikit-Learn, Pandas, Linux e etc.**
 
-- 📫 Como me encontrar **r.medeiro10@gmail.com**
+- 📫 Como me encontrar: **r.medeiro10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramoonmedeiro&show_icons=true&locale=en&layout=compact" alt="ramoonmedeiro" /></p>
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
