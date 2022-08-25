@@ -7,7 +7,7 @@
 
 - 👯 Também estudo Machine Learning nas horas vagas
 
-- 💬 Pergunte-me sobre: **Python, SQL, Scikit-Learn, Pandas, Linux e etc.**
+- 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Scikit-Learn, Pandas, Linux e etc.**
 
 - 📫 Como me encontrar: **r.medeiro10@gmail.com**
 
