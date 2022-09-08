@@ -1,11 +1,9 @@
-<h1 align="center">Olá 👋, Eu sou o Ramon Medeiro</h1>
+<h1 align="center">Olá 👋, eu sou o Ramon Medeiro</h1>
 <h3 align="center">Apaixonado em Análise e Ciência de Dados</h3>
 
-- 🔭 Atualmente trabalho com Química Computacional/Quântica. Título: **Efeito do Solvente em Deslocamento Químico de Nitrogênio-14 e Complexos de Cobalto**
+- 🔭 **Atualmente trabalho com Química Computacional/Quântica.**
 
-- 🌱 Atualmente estou aprendendo sobre Redes Neurais com **TensorFlow e Keras**
-
-- 👯 Também estudo Machine Learning nas horas vagas
+- 🌱 **Atualmente estou aprendendo sobre Redes Neurais e NLP**
 
 - 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Scikit-Learn, Pandas, Linux e etc.**
 
