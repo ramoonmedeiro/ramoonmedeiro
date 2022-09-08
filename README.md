@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou o Ramon Medeiro</h1>
-<h3 align="center">Apaixonado em Análise e Ciência de Dados</h3>
+<h3 align="center">Apaixonado por Análise e Ciência de Dados</h3>
 
 - 🔭 **Atualmente trabalho com Química Computacional/Quântica.**
 
-- 🌱 **Atualmente estou aprendendo sobre Redes Neurais e NLP**
+- 🌱 **Atualmente estou aprendendo sobre Redes Neurais e NLP.**
 
 - 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Scikit-Learn, Pandas, Linux e etc.**
 
