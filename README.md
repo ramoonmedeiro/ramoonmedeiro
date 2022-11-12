@@ -3,7 +3,7 @@
 
 - 🔭 **Atualmente trabalho com Química Computacional/Quântica.**
 
-- 🌱 **Atualmente estou aprendendo sobre Redes Neurais e NLP.**
+- 🌱 **Atualmente estou aprendendo sobre Sistema de Recomendação e Databricks.**
 
 - 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Scikit-Learn, Pandas, Linux e etc.**
 
