@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou o Ramon Medeiro</h1>
 <h3 align="center">Apaixonado por Análise, Ciência e Engenharia de Dados</h3>
 
-- 🔭 **Atualmente trabalho com Química Computacional/Quântica.**
+- 🔭 **Atualmente trabalho como cientista de dados júnior na empresa Cayena**
 
-- 🌱 Atualmente estou aprendendo sobre: **Sistema de Recomendação e Databricks.**
+- 🌱 Atualmente estou aprendendo sobre: **NLP com redes neurais.**
 
-- 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Machine Learning, Airflow, Linux e etc.**
+- 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Machine Learning, Linux e etc.**
 
 - 📫 Como me encontrar: **r.medeiro10@gmail.com**
 
