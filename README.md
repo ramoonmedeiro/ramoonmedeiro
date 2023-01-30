@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Ramon Medeiro</h1>
 <h3 align="center">Apaixonado por Análise, Ciência e Engenharia de Dados</h3>
 
-- 🔭 **Atualmente trabalho como cientista de dados júnior na empresa Cayena**
+- 🔭 **Atualmente trabalho como cientista de dados júnior na empresa Cayena.**
 
 - 🌱 Atualmente estou aprendendo sobre: **NLP com redes neurais.**
 
