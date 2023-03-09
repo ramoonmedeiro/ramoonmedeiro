@@ -3,7 +3,7 @@
 
 - 🔭 **Atualmente trabalho como cientista de dados júnior na empresa Cayena.**
 
-- 🌱 Atualmente estou aprendendo sobre: **NLP com redes neurais.**
+- 🌱 Atualmente estou aprendendo sobre: **Elasticsearch, Airflow e FastAPI**
 
 - 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Machine Learning, Linux e etc.**
 
