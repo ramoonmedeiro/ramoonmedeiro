@@ -3,9 +3,9 @@
 
 - 🔭 **Atualmente trabalho como cientista de dados júnior na empresa Cayena.**
 
-- 🌱 Atualmente estou aprendendo sobre: **Elasticsearch, Airflow e FastAPI**
+- 🌱 Atualmente estou aprendendo sobre: **Transformers, como realizar fine tunning e outras tarefas**
 
-- 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Machine Learning, Linux e etc.**
+- 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Machine Learning, NLP, Elasticsearch e etc.**
 
 - 📫 Como me encontrar: **r.medeiro10@gmail.com**
 
