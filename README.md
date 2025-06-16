@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Ramon Medeiro</h1>
-<h3 align="center">Apaixonado por ciência de dados e vulnerabilidades.</h3>
+<h3 align="center">Apaixonado por ciência de dados e vulnerabilidades web.</h3>
 
 - 📫 Como me encontrar: **r.medeiro10@gmail.com**
 
