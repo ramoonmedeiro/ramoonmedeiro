@@ -1,11 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Ramon Medeiro</h1>
-<h3 align="center">Apaixonado por Análise, Ciência e Engenharia de Dados</h3>
-
-- 🔭 **Atualmente trabalho como cientista de dados júnior na empresa Cayena.**
-
-- 🌱 Atualmente estou aprendendo sobre: **Transformers, como realizar fine tunning e outras tarefas**
-
-- 💬 Pergunte-me sobre: **Química Teórica, Python, SQL, Machine Learning, NLP, Elasticsearch e etc.**
+<h3 align="center">Apaixonado por ciência de dados e vulnerabilidades.</h3>
 
 - 📫 Como me encontrar: **r.medeiro10@gmail.com**
 
